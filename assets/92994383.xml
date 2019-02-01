@@ -6,9 +6,3131 @@
     <method><![CDATA[review_list]]></method>
   </Request>
   
-  <shelf exclusive="false" id="302252867" name="espora" sortable="false"/>
+  <shelf exclusive="false" id="302278324" name="carlos" sortable="false"/>
 
-<reviews start="1" end="4" total="4">
+<reviews start="1" end="44" total="44">
+    <review>
+  <id>2698670745</id>
+    <book>
+  <id type="integer">30835567</id>
+  <isbn>0062652508</isbn>
+  <isbn13>9780062652508</isbn13>
+  <text_reviews_count type="integer">480</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xcuocIB7lHNTfsdqX4fG2w</uri>
+  <title>Hit Refresh</title>
+  <title_without_series>Hit Refresh</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1506565784m/30835567.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1506565784s/30835567.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30835567-hit-refresh</link>
+  <num_pages>273</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper Business</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>7414</ratings_count>
+  <description>As told by Microsoft CEO Satya Nadella, Hit Refresh is the story of corporate change and reinvention as well as the story of Nadella’s personal journey, one that is taking place today inside a storied technology company, and one that is coming in all of our lives as intelligent machines become more ambient and more ubiquitous. It’s about how people, organizations and societies can and must hit refresh—transform—in their persistent quest for new energy, new ideas, relevance and renewal. At the core, it’s about us humans and our unique qualities, like empathy, which will become ever more valuable in a world where the torrent of technology will disrupt like never before. As much a humanist as a technologist, Nadella defines his mission and that of the company he leads as empowering every person and every organization on the planet to achieve more.</description>
+<authors>
+<author>
+<id>15424914</id>
+<name>Satya Nadella</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1506603085p5/15424914.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1506603085p2/15424914.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15424914.Satya_Nadella]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>7466</ratings_count>
+<text_reviews_count>734</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>51432387</id>
+  <uri>kca://work/amzn1.gr.work.v1.iUPiLiQv2wsX-WIBegMvcA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342935684" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:39:29 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:39:30 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698670745]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698670745]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698670430</id>
+    <book>
+  <id type="integer">145444</id>
+  <isbn>006073678X</isbn>
+  <isbn13>9780060736781</isbn13>
+  <text_reviews_count type="integer">133</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hcIj2JUrw7XV8Cu0ugG3iQ</uri>
+  <title>Improbable</title>
+  <title_without_series>Improbable</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/145444.Improbable</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTorch</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>10455</ratings_count>
+  <description>&lt;em&gt;From a brilliant new talent comes a riveting novel of chance, fate, and numbers, and one man's strange journey past the boundaries of the possible.&lt;/em&gt;David Caine inhabits a world of obsession, rich rewards, and rapid, destructive downfalls. A compulsive gambler and brilliant mathematician prone to crippling epileptic seizures, he possesses the uncanny ability to calculate odds of any hand in the blink of an eye. But one night at an underground poker club, Caine makes a costly misscalculation, sending his life spinning out of control. Desperate, he agrees to test an experimental drug with unnerving side effects: inexplicable visions of the past, present, and future. Unsure whether he's perceiving an alternate reality or suffering a psychotic breakdown, Caine embarks on a journey that stretches beyond the possible into the world of the improbable. Gradually, he discovers the extent of his astonishing new ability -- but powerful, shadowy forces know Caine's secret. Now Caine must fight for his survival -- and his sanity . . .</description>
+<authors>
+<author>
+<id>84127</id>
+<name>Adam Fawer</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1352213311p5/84127.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1352213311p2/84127.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/84127.Adam_Fawer]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>16801</ratings_count>
+<text_reviews_count>507</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>140344</id>
+  <uri>kca://work/amzn1.gr.work.v1.nmtdeRyCuzYexeL3QYmnZw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342935338" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:39:11 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:39:11 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698670430]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698670430]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698668076</id>
+    <book>
+  <id type="integer">61666</id>
+  <isbn>2266079999</isbn>
+  <isbn13>9782266079990</isbn13>
+  <text_reviews_count type="integer">1847</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kjtbWKwDvYWmdMd4dd2ycQ</uri>
+  <title>Contact</title>
+  <title_without_series>Contact</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1408792653m/61666.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1408792653s/61666.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/61666.Contact</link>
+  <num_pages>580</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Pocket</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>107665</ratings_count>
+  <description>At first it seemed impossible - a radio signal that came not from Earth but from far beyond the nearest stars. But then the signal was translated, and what had been impossible became terrifying. For the signal contains the information to build a Machine that can travel to the stars. A Machine that can take a human to meet those that sent the message. They are eager to meet us: they have been watching and waiting for a long time. And now they will judge.</description>
+<authors>
+<author>
+<id>10538</id>
+<name>Carl Sagan</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1475953320p5/10538.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1475953320p2/10538.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10538.Carl_Sagan]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>355657</ratings_count>
+<text_reviews_count>11081</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>2416056</id>
+  <uri>kca://work/amzn1.gr.work.v1.hGcLhlMV_R1jEfNIJ9EBaQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342932886" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:37:06 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:37:06 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698668076]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698668076]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698667086</id>
+    <book>
+  <id type="integer">218429</id>
+  <isbn>0345375440</isbn>
+  <isbn13>9780345375445</isbn13>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RELhy6jrACmjU5HllfcyWw</uri>
+  <title>The Gateway Trip (Heechee Saga, #5)</title>
+  <title_without_series>The Gateway Trip</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1264373748m/218429.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1264373748s/218429.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/218429.The_Gateway_Trip</link>
+  <num_pages>245</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey Books</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>1413</ratings_count>
+  <description>Here is a collection of short pieces about the many marvelous discoveries made by humankind using Heechee technology. Each piece includes illustrations by Kelly Freas.</description>
+<authors>
+<author>
+<id>22996</id>
+<name>Frederik Pohl</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p5/22996.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p2/22996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22996.Frederik_Pohl]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>117491</ratings_count>
+<text_reviews_count>5515</text_reviews_count>
+</author>
+</authors>
+  <published>1991</published>
+<work>  <id>211485</id>
+  <uri>kca://work/amzn1.gr.work.v1.64SJbQ6tNWhUlPXOG9vGsw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342931738" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:36:13 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:36:13 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698667086]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698667086]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698667012</id>
+    <book>
+  <id type="integer">77463</id>
+  <isbn>0345325664</isbn>
+  <isbn13>9780345325662</isbn13>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zP0Q48nhB-m9FLRgK80oZg</uri>
+  <title>The Annals of the Heechee (Heechee Saga, #4)</title>
+  <title_without_series>The Annals of the Heechee</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1366637983m/77463.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1366637983s/77463.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/77463.The_Annals_of_the_Heechee</link>
+  <num_pages/>
+  <format/>
+  <edition_information/>
+  <publisher/>
+  <publication_day>1</publication_day>
+  <publication_year>1988</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>3656</ratings_count>
+  <description>Advanced Heechee technology had enabled Robinette Broadhead to live after death as a machine-stored personality, enjoying his life by flitting along the wires from party to party with a host of other machine-people. But suddenly his decadent existence ends when an all powerful alien race intent on the utter destruction of all intelligent life reappears after eons of silence, and threatens the lives of all heechee and humans. Even Robin, virtually immortal and with unlimited access to millennia of accumulated data, cannot discover how to stop these aliens. It began to seem that only a face to face meeting could determine the future of the entire universe....</description>
+<authors>
+<author>
+<id>22996</id>
+<name>Frederik Pohl</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p5/22996.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p2/22996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22996.Frederik_Pohl]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>117491</ratings_count>
+<text_reviews_count>5515</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+<work>  <id>832311</id>
+  <uri>kca://work/amzn1.gr.work.v1.UM8IWpuP4Fkf6KtpRhc-uQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342931678" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:36:09 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:36:10 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698667012]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698667012]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698666940</id>
+    <book>
+  <id type="integer">77462</id>
+  <isbn>0345300556</isbn>
+  <isbn13>9780345300553</isbn13>
+  <text_reviews_count type="integer">98</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LPypr7DDzJPZCbs_SIZbIg</uri>
+  <title>Heechee Rendezvous (Heechee Saga, #3)</title>
+  <title_without_series>Heechee Rendezvous</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1287692990m/77462.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1287692990s/77462.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/77462.Heechee_Rendezvous</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1985</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>6327</ratings_count>
+  <description>At last - the ultimate book in the renowned Heechee Saga!&lt;br /&gt;Advanced Heechee technology had enabled Robinette Broadhead to live after death as a machine-stored personality, enjoying his life by flitting along the wires from party to party with a host of other machine-people. But suddenly his decadent existence ends when an all powerful alien race intent on the utter destruction of all intelligent life reappears after eons of silence, and threatens the lives of all heechee and humans. Even Robin, virtually immortal and with unlimited access to millennia of accumulated data, cannot discover how to stop these aliens. It began to seem that only a face to face meeting could determine the future of the entire universe....&lt;br /&gt;THE HEECHEE SAGE&lt;br /&gt;Book One: GATEWAY&lt;br /&gt;Book Two: BEYOND THE BLUE EVENT HORIZON&lt;br /&gt;Book Three: HEECHEE RENDEZVOUS&lt;br /&gt;Book Four: THE ANNALS OF THE HEECHEE&lt;br /&gt;The Gateway Trip: TALES AND VIGNETTES OF THE HEECHEE&lt;br /&gt;</description>
+<authors>
+<author>
+<id>22996</id>
+<name>Frederik Pohl</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p5/22996.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p2/22996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22996.Frederik_Pohl]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>117491</ratings_count>
+<text_reviews_count>5515</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+<work>  <id>1801327</id>
+  <uri>kca://work/amzn1.gr.work.v1.JHWUbC8-6-tgJkePZ2pvsg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342931590" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:36:05 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:36:05 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698666940]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698666940]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698666844</id>
+    <book>
+  <id type="integer">373399</id>
+  <isbn>0345446674</isbn>
+  <isbn13>9780345446671</isbn13>
+  <text_reviews_count type="integer">169</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PHOnAFVrTa-zW8PNzOsqYA</uri>
+  <title>Beyond the Blue Event Horizon (Heechee Saga, #2)</title>
+  <title_without_series>Beyond the Blue Event Horizon</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/373399.Beyond_the_Blue_Event_Horizon</link>
+  <num_pages/>
+  <format/>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.95</average_rating>
+  <ratings_count>11125</ratings_count>
+  <description/>
+<authors>
+<author>
+<id>22996</id>
+<name>Frederik Pohl</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p5/22996.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p2/22996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22996.Frederik_Pohl]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>117491</ratings_count>
+<text_reviews_count>5515</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>1584650</id>
+  <uri>kca://work/amzn1.gr.work.v1.al5bcwQSRkWTH8nFCXqa6g</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342931484" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:36:00 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:36:00 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698666844]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698666844]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698666778</id>
+    <book>
+  <id type="integer">218427</id>
+  <isbn>0345475836</isbn>
+  <isbn13>9780345475831</isbn13>
+  <text_reviews_count type="integer">969</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.n1Tv-lX4_x6OV_jZ77vLhA</uri>
+  <title>Gateway (Heechee Saga, #1)</title>
+  <title_without_series>Gateway</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1441698400m/218427.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1441698400s/218427.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/218427.Gateway</link>
+  <num_pages>278</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>35590</ratings_count>
+  <description>Gateway opened on all the wealth of the Universe... and on reaches of unimaginable horror. &lt;br /&gt;&lt;br /&gt;When prospector Robinette Broadhead went out to Gateway on the Heechee spacecraft, he decided he would know which was the right mission to make him his fortune. Three missions later, now famous and permanently rich, Rob Broadhead has to face what happened to him and what he has become... in a journey into himself as perilous and even more horrifying than the nightmare trip through the interstellar void that he drove himself to take!</description>
+<authors>
+<author>
+<id>22996</id>
+<name>Frederik Pohl</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p5/22996.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1226540337p2/22996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22996.Frederik_Pohl]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>117491</ratings_count>
+<text_reviews_count>5515</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>1668837</id>
+  <uri>kca://work/amzn1.gr.work.v1.rSzadmclYHxiDi1Jvt4Ljw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342931405" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:35:56 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:35:57 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698666778]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698666778]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698666300</id>
+    <book>
+  <id type="integer">64467</id>
+  <isbn>0345412966</isbn>
+  <isbn13>9780345412966</isbn13>
+  <text_reviews_count type="integer">216</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UuyKcZalgcv-xuTKaEo8SA</uri>
+  <title>The Ringworld Throne (Ringworld, #3)</title>
+  <title_without_series>The Ringworld Throne</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1403165678m/64467.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1403165678s/64467.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/64467.The_Ringworld_Throne</link>
+  <num_pages>368</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>9129</ratings_count>
+  <description>Come back to the Ringworld . . . the most astonishing feat of engineering ever encountered. A place of untold technological wonders, home to a myriad humanoid races, and world of some of the most beloved science fiction stories ever written!&lt;br /&gt;The human, Louis Wu; the puppeteer known as the Hindmost; Acolyte, son of the Kzin called Chmeee . . . legendary beings brought together once again in the defense of the Ringworld. Something is going on with the Protectors. Incoming spacecraft are being destroyed before they can reach the Ringworld. Vampires are massing. And the Ghouls have their own agenda--if anyone dares approach them to learn.&lt;br /&gt;Each race on the Ringworld has always had its own Protector. Now it looks as if the Ringworld itself needs a Protector. But who will sit on the Ringworld Throne?&lt;br /&gt;"Niven's work has been an intriguing and consistent universe, and this book is the keystone of the arch. . . . [His] technique is wonderfully polished, his characters and their situations are nicely drawn . . . wraps up (maybe) a corner of a very interesting universe".&lt;br /&gt;--San Diego Union-Tribune</description>
+<authors>
+<author>
+<id>12534</id>
+<name>Larry Niven</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1182720933p5/12534.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1182720933p2/12534.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12534.Larry_Niven]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>425282</ratings_count>
+<text_reviews_count>14237</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>59500</id>
+  <uri>kca://work/amzn1.gr.work.v1.EBotYL7avjm7QEPFoacd_A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342930842" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:35:30 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:35:31 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698666300]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698666300]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698666201</id>
+    <book>
+  <id type="integer">61181</id>
+  <isbn>0345418417</isbn>
+  <isbn13>9780345418418</isbn13>
+  <text_reviews_count type="integer">363</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.k7SO2v4jfbQhGmWcb59Qag</uri>
+  <title>The Ringworld Engineers (Ringworld, #2)</title>
+  <title_without_series>The Ringworld Engineers</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/61181.The_Ringworld_Engineers</link>
+  <num_pages>307</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>26217</ratings_count>
+  <description>"This rousing sequel to the classic Ringworld continues the adventures of Louis Wu and Speaker-to-Animals on that fantastic planet."--School Library Journal</description>
+<authors>
+<author>
+<id>12534</id>
+<name>Larry Niven</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1182720933p5/12534.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1182720933p2/12534.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12534.Larry_Niven]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>425282</ratings_count>
+<text_reviews_count>14237</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>900675</id>
+  <uri>kca://work/amzn1.gr.work.v1.9yqSedQQDcES69PL-WFdqg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342930731" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:35:25 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:35:25 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698666201]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698666201]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698666099</id>
+    <book>
+  <id type="integer">61179</id>
+  <isbn>0575077026</isbn>
+  <isbn13>9780575077027</isbn13>
+  <text_reviews_count type="integer">2299</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.G0bCjcuqzJnhojepH--hhg</uri>
+  <title>Ringworld (Ringworld, #1)</title>
+  <title_without_series>Ringworld</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1408793358m/61179.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1408793358s/61179.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/61179.Ringworld</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gollancz</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>92586</ratings_count>
+  <description>The artefact is a circular ribbon of matter six hundred miles long and ninety million miles in radius. Pierson's puppeteers, the aliens who discovered it, are understandably wary of encountering the builders of such an immense structure and have assembled a team of two humans, a mad puppeteer and a kzin, a huge cat-like alien, to explore it. But a crash landing on the vast edifice forces the crew on a desperate and dangerous trek across the Ringworld.</description>
+<authors>
+<author>
+<id>12534</id>
+<name>Larry Niven</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1182720933p5/12534.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1182720933p2/12534.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12534.Larry_Niven]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>425282</ratings_count>
+<text_reviews_count>14237</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>924711</id>
+  <uri>kca://work/amzn1.gr.work.v1.Md9Nic5Vo5gZB_wXKp0yIg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342930623" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:35:20 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:35:20 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698666099]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698666099]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698664594</id>
+    <book>
+  <id type="integer">376671</id>
+  <isbn>8408059157</isbn>
+  <isbn13>9788408059158</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.HzFhMimDxpXfPIVP2qbgQw</uri>
+  <title>Yo, Julio Verne: La biografía del más visionario autor del Siglo XX</title>
+  <title_without_series>Yo, Julio Verne: La biografía del más visionario autor del Siglo XX</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1456108178m/376671.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1456108178s/376671.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/376671.Yo_Julio_Verne</link>
+  <num_pages/>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grupo Editorial Planeta</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.72</average_rating>
+  <ratings_count>47</ratings_count>
+  <description>Yo, Julio Verne: La biografía del más visionario autor del Siglo XX.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>1167720</id>
+  <uri>kca://work/amzn1.gr.work.v1.fP411pg_graKo-1MWlys4Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928969" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:34:03 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:34:04 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698664594]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698664594]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698664418</id>
+    <book>
+  <id type="integer">17737988</id>
+  <isbn>8408112031</isbn>
+  <isbn13>9788408112037</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Fg2ll1ANhOWc0_9aMAGdTw</uri>
+  <title>El día del relámpago (Caballo de Troya, #10)</title>
+  <title_without_series>El día del relámpago</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1365365864m/17737988.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1365365864s/17737988.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17737988-el-d-a-del-rel-mpago</link>
+  <num_pages>560</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Planeta</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>184</ratings_count>
+  <description>El día del relámpago, de Juan José Benítez, autor de éxitos como Jesús de Nazaret: nada es lo que parece o A solas con la mar, es una novela de narrativa de ciencia ficción con la que el autor ha querido desvelar algunos interrogantes que quedaron pendientes después de cerrar la saga Caballo de Troya, con más de 1.000.000 de ejemplares vendidos. Si pensabas que Caballo de Troya terminó con este libro «vivirás lo no vivido»&lt;br /&gt;&lt;br /&gt;Caballo de Troya terminó, pero ¿qué le sucedió al mayor tras su regreso a 1973? ¿Imaginas a Rayo negro? ¿Fue el general Curtis un traidor? ¿Murió Eliseo? ¿Se hundió la cuna en el mar Muerto? El día del relámpago es un thriller en el que vivirás 101 días trepidantes. Aunque lo intentes no podrás imaginar lo que sucederá el 29 de agosto de 2027. Tendrás que leerlo. «En cien atardeceres después de muerto. Vivirás lo no vivido. Será el día del relampago.»</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>24817316</id>
+  <uri>kca://work/amzn1.gr.work.v1.v2emrLMlSxYUMDCm3uYMJg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928798" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:55 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:56 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698664418]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698664418]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698664097</id>
+    <book>
+  <id type="integer">688437</id>
+  <isbn>968406084X</isbn>
+  <isbn13>9789684060845</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5RefVZK5mJsfZaNLZZ8kvQ</uri>
+  <title>La rebelión de Lucifer</title>
+  <title_without_series>La rebelión de Lucifer</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1284664442m/688437.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1284664442s/688437.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/688437.La_rebeli_n_de_Lucifer</link>
+  <num_pages>393</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Planeta Pub Corp</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.58</average_rating>
+  <ratings_count>358</ratings_count>
+  <description>Licenciado en periodismo por la Universidad de Navarra (1965) y autor de una treintena de libros (mas de cuatro millones de ejemplares vendidos), se han convertido, con seguridad, en uno de los investigadores que mejor conoce la vida de Jesus de Nazaret, su gran amigo. J. J. Benitez (54 anos). Casi 30 de investigacion. Mas de 100 veces la vuelta al mundo. Esta a punto de alcanzar su libro numero 40. Cuatro hijos, Tres perros, Dos amores (Blanca y la mar), apenas cinco amigos de verdad, y un Jefe, Jesus de Nazaret. Otras obras del autor publicadas: Jerusalen. Caballo de Troya 1 Masada, Caballo de Troya 2 Saidan, Caballo de Troya 3 Nazaret, Caballo de Troya 4 Cesarea, Caballo de Troya 5 Hermon, Caballo de Troya 6 Los astronautas de Yave, Materia reservada, La rebelion de Lucifer, Ricky B, El misterio de la Virgen de Guadalupe, El testamento de San Juan, Al fin libre.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>674792</id>
+  <uri>kca://work/amzn1.gr.work.v1.R_3C6JiCU8xT_VJjSqcIwA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928434" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:39 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:39 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698664097]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698664097]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698664013</id>
+    <book>
+  <id type="integer">13108207</id>
+  <isbn>6070709438</isbn>
+  <isbn13>9786070709432</isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xJ2PShLKtspM1YtsUrHL1w</uri>
+  <title>Caná (Caballo De Troya #9)</title>
+  <title_without_series>Caná</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1344670090m/13108207.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1344670090s/13108207.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13108207-can</link>
+  <num_pages>1168</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Planeta Publishing</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>330</ratings_count>
+  <description>Al leer Caná. Caballo de Troya 9, el lector llega a una conclusión: todo lo contado sobre Jesús de Nazaret conviene ponerlo en duda. La verdad, probablemente, fue más intensa e inquietante. Si usted acierta a leer la primera línea de Caná no será por casualidad. Y atención: sus principios se tambalearán.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>18281434</id>
+  <uri>kca://work/amzn1.gr.work.v1.PuKgEAPOraA8kbvjS11NJw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928352" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:35 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:36 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698664013]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698664013]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663945</id>
+    <book>
+  <id type="integer">66630</id>
+  <isbn>8408069810</isbn>
+  <isbn13>9788408069812</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.B7UZNOOaEsbHefQrFhM41Q</uri>
+  <title>Jordán (Caballo de Troya, #8)</title>
+  <title_without_series>Jordán</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66630.Jord_n</link>
+  <num_pages/>
+  <format/>
+  <edition_information/>
+  <publisher>Planeta</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>450</ratings_count>
+  <description/>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>64611</id>
+  <uri>kca://work/amzn1.gr.work.v1.wVO9he_OZlcDXGGm890MMg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928272" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:31 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:32 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663945]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663945]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663875</id>
+    <book>
+  <id type="integer">66638</id>
+  <isbn>8408069780</isbn>
+  <isbn13>9788408069782</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yEkRCjFG83bJjznKyNPE4g</uri>
+  <title>Nahum (Caballo de Troya, #7)</title>
+  <title_without_series>Nahum</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66638.Nahum</link>
+  <num_pages>0</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Planeta</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>481</ratings_count>
+  <description>Nahum -la ciudad de Jesús- abre una nueva etapa en la serie «Caballo de Troya». En esta séptima entrega del mayor norteamericano que viajó a la Palestina del siglo I todo cambia. Descubrir la trama no es aconsejable. Usted, probablemente, no dará crédito a lo que lea en sus páginas. Quizá tenga razón, pero no olvide que la verdad supera siempre a la ficción. Sí, podemos asegurarle que si se decide a leer Nahum, sus certezas religiosas saltarán por los aires, afortunadamente. Nada de lo que se considera oficial y ortodoxo guarda relación con lo escrito en «Caballo de Troya». Nahum es el libro número cincuenta de los escritos por J. J. Benítez. En septiembre de 2005 se cumplieron treinta años de la aparición de su primera obra, Existió otra humanidad. Hasta el presente ha vendido más de seis millones de ejemplares. El éxito, sin embargo, le parece un malentendido. Por eso escribió Cartas a un idiota, su mejor trabajo, según el escritor navarro. Vive en Barbate, junto a la mar, dedicado a la «revolución», es decir, a pensar.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>64619</id>
+  <uri>kca://work/amzn1.gr.work.v1.xZnmWW6aIqLbhrM6ujfBcg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928192" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:28 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:29 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663875]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663875]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663805</id>
+    <book>
+  <id type="integer">66645</id>
+  <isbn>840806195X</isbn>
+  <isbn13>9788408061953</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Sc4hyrXYnzliIAXJh6AOVQ</uri>
+  <title>Hermón (Caballo de Troya, #6)</title>
+  <title_without_series>Hermón</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66645.Herm_n</link>
+  <num_pages>608</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.09</average_rating>
+  <ratings_count>585</ratings_count>
+  <description>Caballo de Troya 6, uno de los libros más esperados, tampoco le dejará indiferente. Más aún: en palabras del autor, «si usted no dispone de una mente abierta..., no lo lea. Sus creencias se desequilibrarán».En esta nueva entrega -siguiendo el diario del mayor norteamericano-, J. J. Benítez, entre miles de datos técnicos e históricos rigurosamente comprobados, le adentrará en capítulos que fueron sospechosamente silenciados por los evangelistas.Apariciones de Jesús de Nazaret tras su resurrección: ¿sabía usted que fueron muchas más de lo que cuentan los Evangelios?Primer cisma entre los discípulos: ¿por qué nadie habló de ello? Análisis del ADN: otra demoledora «sorpresa»...Por último, el ansiado tercer «salto» en el tiempo y la apasionante aventura del reencuentro con el Maestro.Un libro duro, valiente y tierno en el que el Hijo del Hombre aparece de nuevo, fascinando con sus palabras y su irresistible humanidad.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>64626</id>
+  <uri>kca://work/amzn1.gr.work.v1.Fh3q3BcQrmX7GARfVYWisg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928117" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:25 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:25 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663805]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663805]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663742</id>
+    <book>
+  <id type="integer">66636</id>
+  <isbn>8408061941</isbn>
+  <isbn13>9788408061946</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WpYCawI5zG6aHaopFVkoRg</uri>
+  <title>Cesarea (Caballo de Troya, #5)</title>
+  <title_without_series>Cesarea</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66636.Cesarea</link>
+  <num_pages/>
+  <format/>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.85</average_rating>
+  <ratings_count>715</ratings_count>
+  <description>Cesarea. Caballo de Troya 5: no apto para cardíacos. Así lo define el autor. Tras seis años de justificado silencio (no se pierda el prólogo), J. J. Benítez reanuda la obra por la que, probablemente, será recordado. De la mano del mayor norteamericano, el lector soñará, cabalgará por la Palestina del año 30, sufrirá, se emocionará... Descubrirá, por ejemplo, entre más de dos mil datos, la verdadera personalidad de algunos de los personajes que rodearon a Jesús de Nazaret. ¿Imaginó que Poncio Pilato fue en realidad un demente? Cesarea. Caballo de Troya 5, un relato vibrante, meticuloso y concienzudo, le abrirá las puertas de un mundo silenciado por los evangelistas. Sea creyente o no, de algo puede estar seguro: este libro le marcará para siempre. Y un consejo: no se alarme cuando alcance el final. J. J. Benítez es así...</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>64617</id>
+  <uri>kca://work/amzn1.gr.work.v1.y90nmkM4XjELHka814jEvA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342928045" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:21 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:22 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663742]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663742]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663671</id>
+    <book>
+  <id type="integer">1272978</id>
+  <isbn>8408061933</isbn>
+  <isbn13>9788408061939</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fhe3D0RMr6KpHtnCsj0ViA</uri>
+  <title>Nazaret (Caballo de Troya #4)</title>
+  <title_without_series>Nazaret</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1272978.Nazaret</link>
+  <num_pages>573</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mercuryo</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>893</ratings_count>
+  <description>Solo la prodigiosa audacia de J. J. Benitez podia materializar un libro como el que usted tiene en las manos. Hasta estos momentos, ningun otro autor en el mundo se ha atrevido con el faraonico proyecto de descubrir paso a paso y con un rigor historico-cientifico mas propio de una tesis doctoral que de una novela la vida de Jesus. Caballo de Troya 4 abarca los llamados Â«años ocultosÂ» del Maestro. No existe, hasta hoy, obra alguna que dibuje la aldea de Nazaret y sus gentes como el presente documento. En una sucesion de peripecias mas cercanas al cine que a la literatura, el mayor de la USAF que investiga la encarnacion de Jesucristo en la tierra reconstruye una de las mas oscuras y fascinantes etapas del que fue carpintero, jefe de un almacen de aprovisionamiento de caravanas, maestro, forjador e impenitente viajero. Todo un periodo de los catorce a los veintiseis anos decisivo para comprender en su justa medida la experiencia humana del Hijo de Dios. Un trascendental capitulo, ignorado por los evangelistas, que no le dejara indiferente. Y una recomendacion. Por su propio bien, haga un esfuerzo y sea fiel al hilo de la narracion. Por nada del mundo se adelante a leer el final.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1261932</id>
+  <uri>kca://work/amzn1.gr.work.v1.viE3pw_S3K_9NfnHuqpXhA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342927983" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:18 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:18 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663671]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663671]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663603</id>
+    <book>
+  <id type="integer">413398</id>
+  <isbn>8408061925</isbn>
+  <isbn13>9788408061922</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8lFuSvru8KglakH4425jhA</uri>
+  <title>Saidan (Caballo de Troya, #3)</title>
+  <title_without_series>Saidan</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/413398.Saidan</link>
+  <num_pages>654</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Planeta</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>1102</ratings_count>
+  <description>En Saidan. Caballo de Troya 3 el lector encontrara la respuesta a una de las grandes incognitas de la vida del Hijo del Hombre: su infancia. Algo que los evangelistas silenciaron, privandonos de una perspectiva mas autentica sobre la mas grande figura de la Historia.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>402626</id>
+  <uri>kca://work/amzn1.gr.work.v1.ynXV7dtVnVvDo0zRTktaGw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342927911" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:14 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:15 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663603]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663603]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663538</id>
+    <book>
+  <id type="integer">66634</id>
+  <isbn>8408061917</isbn>
+  <isbn13>9788408061915</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PFWhXeYcZEjeLf6Rx4QFaA</uri>
+  <title>Masada (Caballo de Troya, #2)</title>
+  <title_without_series>Masada</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66634.Masada</link>
+  <num_pages>734</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Booket</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1579</ratings_count>
+  <description/>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>16976382</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZqOX9LmiB9XAeo8cNX3AvQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342927835" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:11 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:11 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663538]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663538]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698663475</id>
+    <book>
+  <id type="integer">66632</id>
+  <isbn>8408061909</isbn>
+  <isbn13>9788408061908</isbn13>
+  <text_reviews_count type="integer">159</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EZDzSXR6mBxRzCuQZQepHA</uri>
+  <title>Jerusalén (Caballo de Troya, #1)</title>
+  <title_without_series>Jerusalén</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1339437548m/66632.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1339437548s/66632.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66632.Jerusal_n</link>
+  <num_pages>941</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Booket</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>3842</ratings_count>
+  <description>Tal como afirma el propio J.J. Benitez, "adelantar el argumento y la naturaleza de Caballo de Troya es quebrar el desconcertante misterio que encierran sus páginas". Podemos apuntar, eso sí, que para la elaboración de esta obra el autor se ha basado en una documentación real, depositada hace años en Estados Unidos. Una documentación que pone al descubierto multitud de datos nuevos sobre la figura y obra de Jesús de Nazaret. Podemos asegurar que -tal y como sospecha buena parte de la Humanidad- las grandes potencias ocultan muchos de sus proyectos espaciales y militares, y "Caballo de Troya" es una prueba más de ello.&lt;br /&gt;Podemos revelar, por ejemplo, que en 1973 las fuerzas aéreas norteamericanas, después de varios años de preparación y tras un sinfín de peripecias, ejecutaron en pleno corazón de Israel uno de sus proyectos "supersecretos" que fue bautizado, precisamente, como "Operación Caballo de Troya". Pero no podemos avanzar al lector cómo se consiguió esa fascinante documentación "confidencial" por parte de J.J. Benitez, ni tampoco el asombroso desarrollo de la referida operación y su desconcertante final. Sería romper el encanto de Caballo de Troya, primer libro testimonio del periodista y escritor navarro...En palabras del autor: "...será el futuro, como sucedió con Julio Verne, quien pondrá de manifiesto si este relato fue o no verídico".</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12117</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>64613</id>
+  <uri>kca://work/amzn1.gr.work.v1.o1Nznajs1odw3BWenNUESg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342927757" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:33:07 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:33:07 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698663475]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698663475]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698662086</id>
+    <book>
+  <id type="integer">11289</id>
+  <isbn>0553572989</isbn>
+  <isbn13>9780553572988</isbn13>
+  <text_reviews_count type="integer">1104</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fIBmBmMCE2i-UMzbQq_ppw</uri>
+  <title>The Rise of Endymion (Hyperion Cantos, #4)</title>
+  <title_without_series>The Rise of Endymion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1329609799m/11289.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1329609799s/11289.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11289.The_Rise_of_Endymion</link>
+  <num_pages>709</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Spectra</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>38230</ratings_count>
+  <description>The time of reckoning has arrived. As a final genocidal Crusade threatens to enslave humanity forever, a new messiah has come of age. She is Aenea and she has undergone a strange apprenticeship to those known as the Others. Now her protector, Raul Endymion, one-time shepherd and convicted murderer, must help her deliver her startling message to her growing army of disciples. &lt;br /&gt;&lt;br /&gt;But first they must embark on a final spectacular mission to discover the underlying meaning of the universe itself. They have been followed on their journey by the mysterious Shrike--monster, angel, killing machine--who is about to reveal the long-held secret of its origin and purpose. And on the planet of Hyperion, where the story first began, the final revelation will be delivered--an apocalyptic message that unlocks the secrets of existence and the fate of humankind in the galaxy.</description>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p5/2687.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p2/2687.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>509256</ratings_count>
+<text_reviews_count>27803</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>13799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TqonGsg1JMdK9WIAVwianQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342926259" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:31:51 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:31:51 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698662086]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698662086]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698662021</id>
+    <book>
+  <id type="integer">3977</id>
+  <isbn>0553572946</isbn>
+  <isbn13>9780553572940</isbn13>
+  <text_reviews_count type="integer">994</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.d5xu1_ymXO3cco3QKhlLXg</uri>
+  <title>Endymion (Hyperion Cantos, #3)</title>
+  <title_without_series>Endymion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1329611385m/3977.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1329611385s/3977.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3977.Endymion</link>
+  <num_pages>563</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam Spectra</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>39656</ratings_count>
+  <description>Two hundred and seventy-four years after the fall of the WorldWeb in Fall of Hyperion, Raul Endymion is sent on a quest. Retrieving Aenea from the Sphinx before the Church troops reach her is only the beginning. With help from a blue-skinned android named A. Bettik, Raul and Aenea travel the river Tethys, pursued by Father Captain Frederico DeSoya, an influential warrior-priest and his troops. The shrike continues to make enigmatic appearances, and while many questions were raised in Hyperion and Fall of Hyperion, still more are raised here. Raul's quest will continue.</description>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p5/2687.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p2/2687.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>509256</ratings_count>
+<text_reviews_count>27803</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>1882574</id>
+  <uri>kca://work/amzn1.gr.work.v1.1oNQK0jTxrNqwHP9Pt4IBA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342926189" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:31:47 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:31:48 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698662021]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698662021]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698661945</id>
+    <book>
+  <id type="integer">77565</id>
+  <isbn>0553288202</isbn>
+  <isbn13>9780553288209</isbn13>
+  <text_reviews_count type="integer">2387</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JHZwufQuwEjgrScrRAJskA</uri>
+  <title>The Fall of Hyperion (Hyperion Cantos, #2)</title>
+  <title_without_series>The Fall of Hyperion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1541174620m/77565.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1541174620s/77565.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion</link>
+  <num_pages>518</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Bantam Reissue</edition_information>
+  <publisher>Spectra Books</publisher>
+  <publication_day/>
+  <publication_year>1995</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>81471</ratings_count>
+  <description>In the stunning continuation of the epic adventure begun in Hyperion, Simmons returns us to a far future resplendent with drama and invention. On the world of Hyperion, the mysterious Time Tombs are opening. And the secrets they contain mean that nothing--nothing anywhere in the universe--will ever be the same.</description>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p5/2687.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p2/2687.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>509256</ratings_count>
+<text_reviews_count>27803</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>1882596</id>
+  <uri>kca://work/amzn1.gr.work.v1.FuXhIAuZdB8vjVqJlXmKJA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342926112" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:31:43 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:31:44 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698661945]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698661945]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698661859</id>
+    <book>
+  <id type="integer">77566</id>
+  <isbn>0553283685</isbn>
+  <isbn13>9780553283686</isbn13>
+  <text_reviews_count type="integer">5928</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw</uri>
+  <title>Hyperion (Hyperion Cantos, #1)</title>
+  <title_without_series>Hyperion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1405546838m/77566.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1405546838s/77566.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/77566.Hyperion</link>
+  <num_pages>482</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam Spectra</publisher>
+  <publication_day/>
+  <publication_year>1990</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>152185</ratings_count>
+  <description>On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands. &lt;br /&gt;&lt;br /&gt;A stunning tour de force filled with transcendent awe and wonder, &lt;i&gt;Hyperion&lt;/i&gt; is a masterwork of science fiction that resonates with excitement and invention, the first volume in a remarkable new science fiction epic by the multiple-award-winning author of &lt;i&gt;The Hollow Man&lt;/i&gt;.</description>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p5/2687.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1427999015p2/2687.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>509256</ratings_count>
+<text_reviews_count>27803</text_reviews_count>
+</author>
+</authors>
+  <published>1990</published>
+<work>  <id>1383900</id>
+  <uri>kca://work/amzn1.gr.work.v1.xIT2_7WWJ119Me44O0dVMg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342926024" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:31:39 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:31:40 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698661859]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698661859]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698660723</id>
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">31085</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA</uri>
+  <title>The Hobbit or There and Back Again</title>
+  <title_without_series>The Hobbit or There and Back Again</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1546071216m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1546071216s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again</link>
+  <num_pages>366</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>2474082</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7187106</ratings_count>
+<text_reviews_count>109388</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1540236</id>
+  <uri>kca://work/amzn1.gr.work.v1.Upx53g0wmFL_YBYIGV2Lzg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342924917" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:30:41 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:30:41 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698660723]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698660723]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698660663</id>
+    <book>
+  <id type="integer">33</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7850</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ylWsItQmnc8IkYYxCItIJw</uri>
+  <title>The Lord of the Rings (The Lord of the Rings, #1-3)</title>
+  <title_without_series>The Lord of the Rings</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1547450792m/33.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1547450792s/33.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings</link>
+  <num_pages>1216</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary One-volume Edition</edition_information>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>488791</ratings_count>
+  <description>&lt;b&gt;One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell by chance into the hands of the hobbit Bilbo Baggins.&lt;br /&gt;&lt;br /&gt;From Sauron's fastness in the Dark Tower of Mordor, his power spread far and wide. Sauron gathered all the Great Rings to him, but always he searched for the One Ring that would complete his dominion.&lt;br /&gt;&lt;br /&gt;When Bilbo reached his eleventy-first birthday he disappeared, bequeathing to his young cousin Frodo the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Lord of the Rings&lt;/i&gt; tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7187106</ratings_count>
+<text_reviews_count>109388</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>3462456</id>
+  <uri>kca://work/amzn1.gr.work.v1.g5RX8WhE47UG7Y7_dbEeRg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342924844" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:30:37 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:30:38 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698660663]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698660663]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698660354</id>
+    <book>
+  <id type="integer">7332</id>
+  <isbn>0618391118</isbn>
+  <isbn13>9780618391110</isbn13>
+  <text_reviews_count type="integer">4353</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FFoGWmBlfDgsJT-SIP3_lQ</uri>
+  <title>The Silmarillion</title>
+  <title_without_series>The Silmarillion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1336502583m/7332.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1336502583s/7332.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7332.The_Silmarillion</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>183315</ratings_count>
+  <description>The story of the creation of the world and of the First Age, this is the ancient drama to which the characters in The Lord of the Rings look back and in whose events some of them, such as Elrond and Galadriel, took part. &lt;br /&gt;&lt;br /&gt;The three Silmarils were jewels created by Fëanor, most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. &lt;br /&gt;&lt;br /&gt;Thereafter, the unsullied Light of Valinor lived on only in the Silmarils, but they were seized by Morgoth and set in his crown, which was guarded in the impenetrable fortress of Angband in the north of Middle-earth. &lt;br /&gt;&lt;br /&gt;The Silmarillion is the history of the rebellion of Fëanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7187106</ratings_count>
+<text_reviews_count>109388</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>4733799</id>
+  <uri>kca://work/amzn1.gr.work.v1.FMfNYq2RJVSUvOBhE4dMJA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342924529" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:30:21 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:30:22 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698660354]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698660354]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698659224</id>
+    <book>
+  <id type="integer">8647</id>
+  <isbn>1841492051</isbn>
+  <isbn13>9781841492056</isbn13>
+  <text_reviews_count type="integer">796</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OW2J2iWaYu0Zwww4t1l7DQ</uri>
+  <title>Shadow of the Giant (Ender's Shadow, #4)</title>
+  <title_without_series>Shadow of the Giant</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8647.Shadow_of_the_Giant</link>
+  <num_pages>388</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher/>
+  <publication_day>4</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>44988</ratings_count>
+  <description>Bean's past was a battle just to survive. He first appeared on the streets of Rotterdam, a tiny child with a mind leagues beyond anyone else. He knew he could not survive through strength; he used his tactical genius to gain acceptance into a children's gang, and then to help make that gang a template for success for all the others. He civilized them, and lived to grow older. Then he was discovered by the recruiters for the Battle School.</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>4088</id>
+  <uri>kca://work/amzn1.gr.work.v1.4oFdp42sxtAc0CPvKQlPDw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342923367" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:29:17 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:29:18 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698659224]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698659224]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698659148</id>
+    <book>
+  <id type="integer">3220405</id>
+  <isbn>0765304961</isbn>
+  <isbn13>9780765304964</isbn13>
+  <text_reviews_count type="integer">1706</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qAk47iSMgDOHAoz2b6p8Jw</uri>
+  <title>Ender in Exile (Ender's Saga, #1.2)</title>
+  <title_without_series>Ender in Exile</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3220405-ender-in-exile</link>
+  <num_pages>369</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martins Press-3pl</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>41780</ratings_count>
+  <description>&lt;i&gt;At first, Ender believed that they would bring him back to Earth as soon as things quieted down. But things were quiet now, had been quiet for a year, and it was plain to him now that they would not bring him back at all, that he was much more useful as a name and a story than he would ever be as an inconvenient flesh-and-blood person.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;At the close of &lt;i&gt;Ender's Game&lt;/i&gt;, Andrew Wiggin--called Ender by everyone--knows that he cannot live on Earth. He has become far more than just a boy who won a game: He is the Savior of Earth, a hero, a military genius whose allegiance is sought by every nation of the newly shattered Earth Hegemony.&lt;br /&gt;&lt;br /&gt;He is offered the choice of living under the Hegemon's control, a pawn in his brother Peter's political games. Or he can join the colony ships and go out to settle one of the new worlds won in the war.&lt;br /&gt;&lt;br /&gt;The story of those years on the colony worlds has never been told...until now.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The voyage was long. By the end of it, Val had finished the first volume of her history of the bugger wars and transmitted it by ansible, under Demosthenes' name, back to Earth, and Ender had won something better than the adulation of the passengers. They knew him now, and he had won their love and their respect.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ender was twelve when he chose to leave his home world and begin the long relativistic journey out to the colonies. With him went his sister, Valentine, and the core of the artificial intelligence that would become Jane. He wrote The Hive Queen and The Hegemon, and his sister wrote The Speaker for the Dead.&lt;br /&gt;&lt;br /&gt;He served as governor of his first colony world, but now Ender is on the move, looking for a planet where the hive queens might be reestablished.&lt;br /&gt;&lt;br /&gt;What he finds in the Ganges colony is more than he bargained for--a resentful governor who caused a devastating war on Earth and a brilliant young colonist who is out to destroy him, starting with his reputation and ending, perhaps, with his life.</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>3465687</id>
+  <uri>kca://work/amzn1.gr.work.v1.Qe_jQbHmiIBF7e-YQ5JNfg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342923297" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:29:14 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:29:14 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698659148]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698659148]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698659082</id>
+    <book>
+  <id type="integer">234724</id>
+  <isbn>0765340054</isbn>
+  <isbn13>9780765340054</isbn13>
+  <text_reviews_count type="integer">893</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.sHzBr04GvxDvDHrzmSCIfw</uri>
+  <title>Shadow Puppets (The Shadow Series, #3)</title>
+  <title_without_series>Shadow Puppets</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/234724.Shadow_Puppets</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>50078</ratings_count>
+  <description>In "Umbra marionetelor", Pamantul si societatea sa s-au schimbat radical ca urmare a victoriei lui Ender Wiggin asupra Furnicilor, astfel unitatea impusa statelor aflate in razboi cu un dusman extraterestru s-a spulberat.&lt;br /&gt;Natiunile se ridica din nou, in cautare de teritorii si influenta, si mai presus de toate dorindu-si sa controleze talentul si loialitatea copiilor de la Scoala de Lupta. &lt;br /&gt;Dar cineva are o idee mai buna. Peter Wiggin, fratele mai mare si mai necrutator al lui Ender, vede ca toate sperantele privind viitorul Pamantului au la baza restaurarea sentimentului de unitate si aflarea unui tel. Si exercita o atractie irezistibila asupra razboinicilor tineri de pe Pamant. Cu Bean alaturi, cei doi vor remodela viitorul.</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2393951</id>
+  <uri>kca://work/amzn1.gr.work.v1.2A5zF15rWM7Ax_dSeDOdJA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342923220" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:29:10 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:29:10 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698659082]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698659082]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698659025</id>
+    <book>
+  <id type="integer">9534</id>
+  <isbn>0812565959</isbn>
+  <isbn13>9780812565959</isbn13>
+  <text_reviews_count type="integer">1376</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8PvyVQvBSPi0k4uDEOmdjw</uri>
+  <title>Shadow of the Hegemon (The Shadow Series, #2)</title>
+  <title_without_series>Shadow of the Hegemon</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1537335644m/9534.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1537335644s/9534.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9534.Shadow_of_the_Hegemon</link>
+  <num_pages>451</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>66838</ratings_count>
+  <description>&lt;i&gt;Umbra Hegemonului&lt;/i&gt; este volumul al doilea din &lt;i&gt;Saga Umbrelor&lt;/i&gt;.&lt;br /&gt;Razboiul a fost castigat de Ender Wiggin si de armata sa de copii-luptatori precoce. Dusmanul este distrus, rasa umana este salvata. Ender refuza sa se intoarca pe planeta, insa luptatorii sai au plecat acasa la familiile lor imprastiate pe tot globul.&lt;br /&gt;Scoala de Lupta nu mai exista, dar odata disparuta amenintarea externa, Pamantul se transforma din nou intr-un camp de lupta. Natiunile vor sa-si declare iar suveranitatea.&lt;br /&gt;Copiii de la Scoala de Lupta sunt mai mult decat eroi; sunt potentiale arme ale tarilor care ii controleaza. Rand pe rând, toti membrii armatei lui Ender sunt rapiti. Doar Bean scapa si-i cere ajutorul fratelui lui Ender, Peter, care manipuleaza, din culise, politica de pe glob.&lt;br /&gt;&lt;br /&gt;„Splendida continuare a &lt;i&gt;Umbrei lui Ender&lt;/i&gt; il infatiseaza pe erou in confruntarea cu adevaratele dileme etice si morale din lumea romanesca a lui Orson Scott Card.“ &lt;i&gt;Publishers Weekly&lt;/i&gt;</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>2528139</id>
+  <uri>kca://work/amzn1.gr.work.v1.I_GCqhqo7ZTzv0XejJ92BQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342923156" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:29:06 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:29:07 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698659025]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698659025]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698658936</id>
+    <book>
+  <id type="integer">31360</id>
+  <isbn>0765304740</isbn>
+  <isbn13>9780765304742</isbn13>
+  <text_reviews_count type="integer">1902</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VOJi9RVnt-g0TUQgykMHVA</uri>
+  <title>Children of the Mind (Ender's Saga, #4)</title>
+  <title_without_series>Children of the Mind</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31360.Children_of_the_Mind</link>
+  <num_pages>370</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>88940</ratings_count>
+  <description/>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1959402</id>
+  <uri>kca://work/amzn1.gr.work.v1.scV5eqC6LdWZCtNR38O78Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342923068" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:29:02 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:29:03 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698658936]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698658936]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698658814</id>
+    <book>
+  <id type="integer">8648</id>
+  <isbn>0312861877</isbn>
+  <isbn13>9780312861872</isbn13>
+  <text_reviews_count type="integer">2998</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.K4FrEme8S6a_W_6j1IIWrw</uri>
+  <title>Xenocide (Ender's Saga, #3)</title>
+  <title_without_series>Xenocide</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8648.Xenocide</link>
+  <num_pages>592</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>126340</ratings_count>
+  <description>The war for survival of the planet Lusitania will be fought in the hearts of a child named Gloriously Bright.&lt;br /&gt;&lt;br /&gt;On Lusitania, Ender found a world where humans and pequininos and the Hive Queen could all live together; where three very different intelligent species could find common ground at last. Or so he thought.&lt;br /&gt;&lt;br /&gt;Lusitania also harbors the descolada, a virus that kills all humans it infects, but which the pequininos require in order to become adults. The Starways Congress so fears the effects of the descolada, should it escape from Lusitania, that they have ordered the destruction of the entire planet, and all who live there. The Fleet is on its way, and a second xenocide seems inevitable.</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>1150594</id>
+  <uri>kca://work/amzn1.gr.work.v1.jNHLahwB654fLp3B9jQWcw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342922942" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:28:56 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:28:56 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698658814]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698658814]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698658747</id>
+    <book>
+  <id type="integer">9532</id>
+  <isbn>0765342405</isbn>
+  <isbn13>9780765342409</isbn13>
+  <text_reviews_count type="integer">4107</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LA0omYu0d3l5dvLtkl95rw</uri>
+  <title>Ender's Shadow (The Shadow Series, #1)</title>
+  <title_without_series>Ender's Shadow</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9532.Ender_s_Shadow</link>
+  <num_pages>469</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Starscape</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>137992</ratings_count>
+  <description>&lt;b&gt;Welcome to Battleschool.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Growing up is never easy. But try living on the mean streets as a child begging for food and fighting like a dog with ruthless gangs of starving kids who wouldn't hesitate to pound your skull into pulp for a scrap of apple. If Bean has learned anything on the streets, it's how to survive. And not with fists—He is way too small for that—But with brains.&lt;br /&gt;&lt;br /&gt;Bean is a genius with a magician's ability to zero in on his enemy and exploit his weakness.&lt;br /&gt;&lt;br /&gt;What better quality for a future general to lead the Earth in a final climactic battle against a hostile alien race, known as Buggers. At Battleschool Bean meets and befriends another future commander—Ender Wiggins—perhaps his only true rival.&lt;br /&gt;&lt;br /&gt;Only one problem: for Bean and Ender, the future is &lt;i&gt;now&lt;/i&gt;.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3145587</id>
+  <uri>kca://work/amzn1.gr.work.v1.Kpft6PB64dPVdtAElM90vA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342922874" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:28:52 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:28:52 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698658747]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698658747]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698658649</id>
+    <book>
+  <id type="integer">7967</id>
+  <isbn>0812550757</isbn>
+  <isbn13>9780812550757</isbn13>
+  <text_reviews_count type="integer">6327</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5Q6Ztnluhr8SxnN4abpolQ</uri>
+  <title>Speaker for the Dead (Ender's Saga, #2)</title>
+  <title_without_series>Speaker for the Dead</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1295660894m/7967.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1295660894s/7967.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead</link>
+  <num_pages>382</num_pages>
+  <format>Paperback</format>
+  <edition_information>Author's definitive edition</edition_information>
+  <publisher>Tor Books</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>200323</ratings_count>
+  <description>Now available in mass market, the revised, definitive edition of the Hugo and Nebula Award-winning classic. In this second book in the saga set 3,000 years after the terrible war, Ender Wiggin is reviled by history as the Xenocide--the destroyer of the alien Buggers. Now, Ender tells the true story of the war and seeks to stop history from repeating itself. ...&lt;br /&gt;&lt;br /&gt;In the aftermath of his terrible war, Ender Wiggin disappeared, and a powerful voice arose: The Speaker for the Dead, who told the true story of the Bugger War.&lt;br /&gt;&lt;br /&gt;Now, long years later, a second alien race has been discovered, but again the aliens' ways are strange and frightening...again, humans die. And it is only the Speaker for the Dead, who is also Ender Wiggin the Xenocide, who has the courage to confront the mystery...and the truth.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Speaker for the Dead&lt;/i&gt;, the second novel in Orson Scott Card's Ender Quintet, is the winner of the 1986 Nebula Award for Best Novel and the 1987 Hugo Award for Best Novel.</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>2327777</id>
+  <uri>kca://work/amzn1.gr.work.v1._pf7eFuHbr2DhE6ROqX_lw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342922787" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:28:47 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:28:47 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698658649]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698658649]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698658581</id>
+    <book>
+  <id type="integer">375802</id>
+  <isbn>0812550706</isbn>
+  <isbn13>9780812550702</isbn13>
+  <text_reviews_count type="integer">35173</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9norahS09TVbhrKu-VRkig</uri>
+  <title>Ender's Game (Ender's Saga, #1)</title>
+  <title_without_series>Ender's Game</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1408303130m/375802.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1408303130s/375802.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/375802.Ender_s_Game</link>
+  <num_pages>324</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Author's Definitive Edition, Revised mass market edition  (US / CAN)</edition_information>
+  <publisher>TOR</publisher>
+  <publication_day/>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>985346</ratings_count>
+  <description>Andrew "Ender" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast.&lt;br /&gt;&lt;br /&gt;But Ender is not the only result of the experiment. The war with the Buggers has been raging for a hundred years, and the quest for the perfect general has been underway almost as long. Ender's two older siblings, Peter and Valentine, are every bit as unusual as he is, but in very different ways. While Peter was too uncontrollably violent, Valentine very nearly lacks the capability for violence altogether. Neither was found suitable for the military's purpose. But they are driven by their jealousy of Ender, and by their inbred drive for power. Peter seeks to control the political process, to become a ruler. Valentine's abilities turn more toward the subtle control of the beliefs of commoner and elite alike, through powerfully convincing essays. Hiding their youth and identities behind the anonymity of the computer networks, these two begin working together to shape the destiny of Earth-an Earth that has no future at all if their brother Ender fails.&lt;br /&gt;&lt;br /&gt;Source: hatrack.com</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2384679</ratings_count>
+<text_reviews_count>99369</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>2422333</id>
+  <uri>kca://work/amzn1.gr.work.v1.VGZlxSHM4ngy3MUPG3VaQg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342922724" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:28:43 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:28:43 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698658581]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698658581]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698658209</id>
+    <book>
+  <id type="integer">2467566</id>
+  <isbn>1401309666</isbn>
+  <isbn13>9781401309664</isbn13>
+  <text_reviews_count type="integer">208</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.3Hhn8ojuUdhDNFZSUe62TA</uri>
+  <title>The Long Tail: Why the Future of Business is Selling Less of More</title>
+  <title_without_series>The Long Tail: Why the Future of Business is Selling Less of More</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2467566.The_Long_Tail</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information>Revised, Updated</edition_information>
+  <publisher>Hachette Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>26370</ratings_count>
+  <description>The &lt;i&gt;New York Times&lt;/i&gt; bestseller that introduced the business world to a future that s already here -- now in paperback with a new chapter about Long Tail Marketing and a new epilogue.&lt;br /&gt;&lt;br /&gt;Winner of the Gerald Loeb Award for Best Business Book of the Year.&lt;br /&gt;&lt;br /&gt;In the most important business book since &lt;i&gt;The Tipping Point,&lt;/i&gt; Chris Anderson shows how the future of commerce and culture isn t in hits, the high-volume head of a traditional demand curve, but in what used to be regarded as misses -- the endlessly long tail of that same curve.</description>
+<authors>
+<author>
+<id>1756</id>
+<name>Chris Anderson</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1236398319p5/1756.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1236398319p2/1756.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1756.Chris_Anderson]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>44108</ratings_count>
+<text_reviews_count>1643</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>989032</id>
+  <uri>kca://work/amzn1.gr.work.v1.81funsqGqsv4_Zl1zcMSbQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342922333" sortable="false"/>
+
+    <shelf exclusive="false" id="302278333" name="eva" review_shelf_id="2342922343" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:28:23 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 13:28:24 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698658209]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698658209]]></link>
+    <owned>0</owned>
+</review>
+
     <review>
   <id>2698415743</id>
     <book>
@@ -46,8 +3168,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7779.Arthur_C_Clarke]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>938248</ratings_count>
-<text_reviews_count>28203</text_reviews_count>
+<ratings_count>938277</ratings_count>
+<text_reviews_count>28204</text_reviews_count>
 </author>
 </authors>
   <published/>
@@ -65,7 +3187,7 @@
 <shelves>
     <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
 
-    <shelf exclusive="false" id="302252867" name="espora" review_shelf_id="2342672821" sortable="false"/>
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342921530" sortable="false"/>
 
 </shelves>
 
@@ -74,7 +3196,7 @@
   <started_at/>
   <read_at/>
   <date_added>Fri Feb 01 09:57:15 -0800 2019</date_added>
-  <date_updated>Fri Feb 01 09:57:15 -0800 2019</date_updated>
+  <date_updated>Fri Feb 01 13:27:43 -0800 2019</date_updated>
   <read_count>0</read_count>
   <body>
   </body>
@@ -124,8 +3246,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7779.Arthur_C_Clarke]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>938248</ratings_count>
-<text_reviews_count>28203</text_reviews_count>
+<ratings_count>938277</ratings_count>
+<text_reviews_count>28204</text_reviews_count>
 </author>
 </authors>
   <published>1993</published>
@@ -143,7 +3265,7 @@
 <shelves>
     <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
 
-    <shelf exclusive="false" id="302252867" name="espora" review_shelf_id="2342672750" sortable="false"/>
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342921601" sortable="false"/>
 
 </shelves>
 
@@ -152,7 +3274,7 @@
   <started_at/>
   <read_at/>
   <date_added>Fri Feb 01 09:57:11 -0800 2019</date_added>
-  <date_updated>Fri Feb 01 09:57:12 -0800 2019</date_updated>
+  <date_updated>Fri Feb 01 13:27:47 -0800 2019</date_updated>
   <read_count>0</read_count>
   <body>
   </body>
@@ -202,8 +3324,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7779.Arthur_C_Clarke]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>938248</ratings_count>
-<text_reviews_count>28203</text_reviews_count>
+<ratings_count>938277</ratings_count>
+<text_reviews_count>28204</text_reviews_count>
 </author>
 </authors>
   <published>1996</published>
@@ -221,7 +3343,7 @@
 <shelves>
     <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
 
-    <shelf exclusive="false" id="302252867" name="espora" review_shelf_id="2342672639" sortable="false"/>
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342921673" sortable="false"/>
 
 </shelves>
 
@@ -230,7 +3352,7 @@
   <started_at/>
   <read_at/>
   <date_added>Fri Feb 01 09:57:06 -0800 2019</date_added>
-  <date_updated>Fri Feb 01 09:57:07 -0800 2019</date_updated>
+  <date_updated>Fri Feb 01 13:27:51 -0800 2019</date_updated>
   <read_count>0</read_count>
   <body>
   </body>
@@ -265,7 +3387,7 @@
   <publication_year>2000</publication_year>
   <publication_month/>
   <average_rating>4.08</average_rating>
-  <ratings_count>116032</ratings_count>
+  <ratings_count>116034</ratings_count>
   <description>At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind's first encounter with alien intelligence. It will kindle their wildest dreams... and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits — just behind a Raman airlock door.</description>
 <authors>
 <author>
@@ -280,8 +3402,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7779.Arthur_C_Clarke]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>938248</ratings_count>
-<text_reviews_count>28203</text_reviews_count>
+<ratings_count>938277</ratings_count>
+<text_reviews_count>28204</text_reviews_count>
 </author>
 </authors>
   <published>2000</published>
@@ -299,7 +3421,7 @@
 <shelves>
     <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
 
-    <shelf exclusive="false" id="302252867" name="espora" review_shelf_id="2342672480" sortable="false"/>
+    <shelf exclusive="false" id="302278324" name="carlos" review_shelf_id="2342921781" sortable="false"/>
 
 </shelves>
 
@@ -308,7 +3430,7 @@
   <started_at/>
   <read_at/>
   <date_added>Fri Feb 01 09:56:58 -0800 2019</date_added>
-  <date_updated>Fri Feb 01 09:56:59 -0800 2019</date_updated>
+  <date_updated>Fri Feb 01 13:27:55 -0800 2019</date_updated>
   <read_count>0</read_count>
   <body>
   </body>
