@@ -1,5 +1,5 @@
 $(function(){
-  var url = 'https://crossorigin.me/https://www.goodreads.com/review/list_rss/92994383?key=3yng7ZCmInuRcXLjpbDyrJRYe_he__uLfNygmatNKCB3ZwFv&shelf=espora';
+  var url = 'https://www.goodreads.com/review/list/92994383.xml?v=2&shelf=espora&per_page=200&page=1&key=Azh0n0Q1aaWelnw69Dd1w';
   var books = $('.books');
 
   function loadBooks(url) {
@@ -9,10 +9,10 @@ $(function(){
       dataType: "xml"
     })
     .done(function(xml) {
-	$(xml).find("channel item").each(function () {
+	$(xml).find("review book").each(function () {
 	var book = $(this);
         books.append('<div class="4u"><span class="image fit">');
-        books.append('<img src="' + book.find("book_medium_image_url").text() + '" alt="' + book.find("book_description").text() + '" />' + book.find("title").text());
+        books.append('<img src="' + book.find("image_url").text() + '" alt="' + book.find("description").text() + '" />' + book.find("title").text());
         books.append('</span></div>');
 	});      
     })
