@@ -1,5 +1,6 @@
 $(function(){
-  var url = 'https://www.goodreads.com/review/list/92994383.xml?v=2&shelf=espora&per_page=200&page=1&key=Azh0n0Q1aaWelnw69Dd1w';
+  // for the future CORS GoodReads API var url = 'https://www.goodreads.com/review/list/92994383.xml?v=2&shelf=espora&per_page=200&page=1&key=';
+  var url = '/assets/92994383.xml';
   var books = $('.books');
 
   function loadBooks(url) {
