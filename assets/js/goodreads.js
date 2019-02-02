@@ -7,14 +7,14 @@ $(function(){
   var childrenteens = '/assets/children-teens.xml';
   var personaldevelopment = '/assets/personal-development.xml';
 
-  function loadBooks(url, shelf) {
+  function loadBooks(url, shelf, image) {
     $.ajax({
       url: url,
       type: 'GET',
       dataType: "xml"
     })
     .done(function(xml) {
-	shelf.append('<div class="12u"><span class="image fit"><img src="images/' + shelf + '.jpg" alt="" /></span></div>');
+	shelf.append('<div class="12u"><span class="image fit"><img src="images/' + image + '.jpg" alt="" /></span></div>');
 	$(xml).find("review book").each(function () {
 	  var book = $(this);
           shelf.append('<div class="1u"><span class="image fit"><a href="' + book.find("link").first().text() + '"><img src="' + book.find("image_url").first().text() + '" alt="' + book.find("title").text() + '" /></a></span></div>');
@@ -25,10 +25,10 @@ $(function(){
     });
   }
 	
-  loadBooks(novel, $('.novel'));
-  loadBooks(business, $('.business'));
-  loadBooks(scifi, $('.scifi'));
-  loadBooks(biography, $('.biography'));
-  loadBooks(childrenteens, $('.childrenteens'));
-  loadBooks(personaldevelopment, $('.personaldevelopment'));
+  loadBooks(novel, $('.novel'), 'novel');
+  loadBooks(business, $('.business'), 'business');
+  loadBooks(scifi, $('.scifi'), 'scifi');
+  loadBooks(biography, $('.biography'), 'biography');
+  loadBooks(childrenteens, $('.childrenteens'), 'children-teens');
+  loadBooks(personaldevelopment, $('.personaldevelopment'), 'personal-development');
 });
