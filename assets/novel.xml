@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Azh0n0Q1aaWelnw69Dd1w]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive="false" id="302333999" name="novel" sortable="false"/>
+
+<reviews start="1" end="4" total="4">
+    <review>
+  <id>2698670430</id>
+    <book>
+  <id type="integer">145445</id>
+  <isbn>8408060961</isbn>
+  <isbn13>9788408060963</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.C9TFR3fEv20J6BNaz84Bog</uri>
+  <title>El Teorema</title>
+  <title_without_series>El Teorema</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303916507m/145445.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303916507s/145445.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/145445.El_Teorema</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.10</average_rating>
+  <ratings_count>10456</ratings_count>
+  <description>David Caine es epiléptico, posee una espectacular capacidad para las matemáticas y el cálculo mental y pasa todas las noches jugando al póquer. A causa de sus frecuentes y terribles ataques de epilepsia ha perdido su trabajo de profesor de estadística en la universidad, ha recaído en su adicción al juego y su vida se ha convertido en un infierno. Confía en su don para calcular probabilidades y así ganar mucho dinero lo que le permitiría empezar de nuevo, pero lo improbable no es imposible y acaba debiéndole una fortuna a un peligroso capo de la mafia rusa.&lt;br /&gt;&lt;br /&gt;A fin de librarse de su enfermedad y recuperar el control de su vida, Caine decide arriesgarse con un medicamento en pruebas, administrada por un misterioso doctor de oscuras intenciones que le utiliza para un experimento sobre la predicción del futuro, basado en la teoría matemática conocida como el demonio de Laplace. Desde que inicia el tratamiento, Caine tiene visiones alucinatorias, que podrían ser tanto un signo de su recién adquirida habilidad predictiva como síntomas de episodios psicóticos, efecto secundario de la medicación.&lt;br /&gt;&lt;br /&gt;Para escapar del enloquecido científico, Caine contará con la ayuda de su hermano gemelo, Jasper, y de la arisca agente de la CIA Nava Vaner. Los tres se verán envueltos en una trama de múltiples ramificaciones, y será la capacidad de Caine para ver el futuro lo que les permitirá resolver la compleja situación.&lt;br /&gt;&lt;br /&gt;Una auténtica golosina para cualquier curioso sobre las regiones más oscuras de la ciencia moderna, donde lo racional se confunde con lo paranormal.</description>
+<authors>
+<author>
+<id>84127</id>
+<name>Adam Fawer</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1352213311p5/84127.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1352213311p2/84127.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/84127.Adam_Fawer]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>16802</ratings_count>
+<text_reviews_count>507</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>140344</id>
+  <uri>kca://work/amzn1.gr.work.v1.nmtdeRyCuzYexeL3QYmnZw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333999" name="novel" review_shelf_id="2343499431" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:39:11 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 23:54:33 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698670430]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698670430]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698660723</id>
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">31087</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA</uri>
+  <title>The Hobbit or There and Back Again</title>
+  <title_without_series>The Hobbit or There and Back Again</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1546071216m/5907.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1546071216s/5907.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again</link>
+  <num_pages>366</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>2474303</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7187849</ratings_count>
+<text_reviews_count>109404</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1540236</id>
+  <uri>kca://work/amzn1.gr.work.v1.Upx53g0wmFL_YBYIGV2Lzg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333999" name="novel" review_shelf_id="2343500092" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:30:41 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 23:55:46 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698660723]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698660723]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698660663</id>
+    <book>
+  <id type="integer">33</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7851</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ylWsItQmnc8IkYYxCItIJw</uri>
+  <title>The Lord of the Rings (The Lord of the Rings, #1-3)</title>
+  <title_without_series>The Lord of the Rings</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1547450792m/33.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1547450792s/33.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings</link>
+  <num_pages>1216</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary One-volume Edition</edition_information>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>488847</ratings_count>
+  <description>&lt;b&gt;One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell by chance into the hands of the hobbit Bilbo Baggins.&lt;br /&gt;&lt;br /&gt;From Sauron's fastness in the Dark Tower of Mordor, his power spread far and wide. Sauron gathered all the Great Rings to him, but always he searched for the One Ring that would complete his dominion.&lt;br /&gt;&lt;br /&gt;When Bilbo reached his eleventy-first birthday he disappeared, bequeathing to his young cousin Frodo the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Lord of the Rings&lt;/i&gt; tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7187849</ratings_count>
+<text_reviews_count>109404</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>3462456</id>
+  <uri>kca://work/amzn1.gr.work.v1.g5RX8WhE47UG7Y7_dbEeRg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333999" name="novel" review_shelf_id="2343500206" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:30:37 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 23:55:59 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698660663]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698660663]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2698660354</id>
+    <book>
+  <id type="integer">7332</id>
+  <isbn>0618391118</isbn>
+  <isbn13>9780618391110</isbn13>
+  <text_reviews_count type="integer">4353</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FFoGWmBlfDgsJT-SIP3_lQ</uri>
+  <title>The Silmarillion</title>
+  <title_without_series>The Silmarillion</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1336502583m/7332.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1336502583s/7332.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7332.The_Silmarillion</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>183338</ratings_count>
+  <description>The story of the creation of the world and of the First Age, this is the ancient drama to which the characters in The Lord of the Rings look back and in whose events some of them, such as Elrond and Galadriel, took part. &lt;br /&gt;&lt;br /&gt;The three Silmarils were jewels created by Fëanor, most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. &lt;br /&gt;&lt;br /&gt;Thereafter, the unsullied Light of Valinor lived on only in the Silmarils, but they were seized by Morgoth and set in his crown, which was guarded in the impenetrable fortress of Angband in the north of Middle-earth. &lt;br /&gt;&lt;br /&gt;The Silmarillion is the history of the rebellion of Fëanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7187849</ratings_count>
+<text_reviews_count>109404</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>4733799</id>
+  <uri>kca://work/amzn1.gr.work.v1.FMfNYq2RJVSUvOBhE4dMJA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333999" name="novel" review_shelf_id="2343500273" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:30:21 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 23:56:06 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698660354]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698660354]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

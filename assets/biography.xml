@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Azh0n0Q1aaWelnw69Dd1w]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive="false" id="302334092" name="biography" sortable="false"/>
+
+<reviews start="1" end="1" total="1">
+    <review>
+  <id>2698664594</id>
+    <book>
+  <id type="integer">376671</id>
+  <isbn>8408059157</isbn>
+  <isbn13>9788408059158</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.HzFhMimDxpXfPIVP2qbgQw</uri>
+  <title>Yo, Julio Verne: La biografía del más visionario autor del Siglo XX</title>
+  <title_without_series>Yo, Julio Verne: La biografía del más visionario autor del Siglo XX</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1456108178m/376671.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1456108178s/376671.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/376671.Yo_Julio_Verne</link>
+  <num_pages/>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grupo Editorial Planeta</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.72</average_rating>
+  <ratings_count>47</ratings_count>
+  <description>Yo, Julio Verne: La biografía del más visionario autor del Siglo XX.</description>
+<authors>
+<author>
+<id>5120857</id>
+<name>J.J. Benítez</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p5/5120857.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1381017761p2/5120857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5120857.J_J_Ben_tez]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>12118</ratings_count>
+<text_reviews_count>520</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>1167720</id>
+  <uri>kca://work/amzn1.gr.work.v1.fP411pg_graKo-1MWlys4Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302334092" name="biography" review_shelf_id="2343499869" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 13:34:03 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 23:55:20 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2698664594]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2698664594]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

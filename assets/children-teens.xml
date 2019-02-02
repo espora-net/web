@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Azh0n0Q1aaWelnw69Dd1w]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive="false" id="302333828" name="children-teens" sortable="false"/>
+
+<reviews start="1" end="8" total="8">
+    <review>
+  <id>2699246030</id>
+    <book>
+  <id type="integer">15840089</id>
+  <isbn nil="true"/>
+  <isbn13>9788467553086</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UwQtgHg2-4IFoiY2bS9sUg</uri>
+  <title>Cómo sobrevivir a una tempestad de Dragones</title>
+  <title_without_series>Cómo sobrevivir a una tempestad de Dragones</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1345578561m/15840089.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1345578561s/15840089.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15840089-c-mo-sobrevivir-a-una-tempestad-de-dragones</link>
+  <num_pages>256</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>SM</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.25</average_rating>
+  <ratings_count>5414</ratings_count>
+  <description>La cosa va así: Hipo tiene exactamente tres meses, cinco días y seis horas (ni una más ni una menos) para descubrir América, volver a su aldea, salvar a su padre y enfrentarse a unos dragones terribles. Ah, bueno, de paso, tendrá que ganar la competición anual de natación. ¿Podrá hacerlo? ¡El tiempo corre en su contra!</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>5183265</id>
+  <uri>kca://work/amzn1.gr.work.v1.H-pAyHin86Hy-gLF6Gx90g</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343508651" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:11:49 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:11:49 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699246030]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699246030]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699245311</id>
+    <book>
+  <id type="integer">8015759</id>
+  <isbn nil="true"/>
+  <isbn13>9788467540260</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GT3FwX32jDnOfAxMhO_GuA</uri>
+  <title>Manual de dragones mortíferos</title>
+  <title_without_series>Manual de dragones mortíferos</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8015759-manual-de-dragones-mort-feros</link>
+  <num_pages>200</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ediciones SM</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>5553</ratings_count>
+  <description>Lo normal es que celebres tu cumpleaños soplando las velas de una tarta. &lt;br /&gt;Pero cuando eres un aprendiz de héroe vikingo, el día de tu aniversario puede ser tu ÚLTIMO día. Y es que a lo mejor pasas tu cumpleaños perdido en una siniestra y laberíntica biblioteca, con toda clase de dragones mortíferos deseando tirarte de las orejas.... para arrancártelas.</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>1952938</id>
+  <uri>kca://work/amzn1.gr.work.v1.qOaYDqse4VanQVxIf8upvA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343507910" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:10:27 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:10:28 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699245311]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699245311]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699244643</id>
+    <book>
+  <id type="integer">10594969</id>
+  <isbn>8467545593</isbn>
+  <isbn13>9788467545593</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZjgysI4LX-7rDnCx8ZiFTw</uri>
+  <title>Cómo detener una erupción de dragones</title>
+  <title_without_series>Cómo detener una erupción de dragones</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1342689989m/10594969.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1342689989s/10594969.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10594969-c-mo-detener-una-erupci-n-de-dragones</link>
+  <num_pages/>
+  <format/>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.22</average_rating>
+  <ratings_count>6692</ratings_count>
+  <description>El entrenamientopara convertirse en un héroe vikingo de provecho continúa para Hipo ysu amigo Patapez. Y lo hace como siempre: a trompicones y con metedurasde pata. En el transcurso de una de estas sesiones, Hipo y el resto desus compañeros se ven rodeados de un fuego nacido de la nada. La causa:unos mortíferos dragones exterminadores, tan despiadados comoinvencibles. Afortunadamente, la intervención a tiempo de uno de loshéroes más grandes de todos los tiempos, Importancio Capital, salvará alos jóvenes vikingos. Pero todavía no está la cosa para celebraciones.Alguien ha robado la Piedra de Fuego que mantiene dormido el volcán quedomina una isla vecina. Y el problema no es que el volcán entre enerupción y lance lava por doquier, es que ese magma incandescenteservirá de incubadora para los millones de huevos plantados en laladera del volcán. Millones de huevos de dragones exterminadores...</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>2042814</id>
+  <uri>kca://work/amzn1.gr.work.v1.3Iy8pNO1YAqAjxSEnrY9-A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343507230" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:09:13 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:09:13 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699244643]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699244643]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699243805</id>
+    <book>
+  <id type="integer">8015604</id>
+  <isbn nil="true"/>
+  <isbn13>9788467540253</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ggDoc0mshwZ-E1n4zFCAlg</uri>
+  <title>Cómo evitar una maldición de dragón</title>
+  <title_without_series>Cómo evitar una maldición de dragón</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1270931604m/8015604.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1270931604s/8015604.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8015604-c-mo-evitar-una-maldici-n-de-drag-n</link>
+  <num_pages>239</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ediciones SM</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>8201</ratings_count>
+  <description>¿Podrá Hipo Horrendo Abadejo III encontrar la cura para la vorpentitis y vencer al Colmillo Mortal? ¿Podrá librarse de la temible hacha de Norberto el Chiflado y convertirse en héroe UNA VEZ MÁS? ¿Podrá el lector aguantar las ganas de abrir este libro y descubrirlo?</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>443186</id>
+  <uri>kca://work/amzn1.gr.work.v1._5rnI0s-Jk6zcAFldzXfmg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343506372" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:07:42 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:07:42 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699243805]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699243805]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699243126</id>
+    <book>
+  <id type="integer">5997855</id>
+  <isbn>8467519126</isbn>
+  <isbn13>9788467519129</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q2nyx2Oe--eyrlJAQ6FOkA</uri>
+  <title>Cómo hablar dragonés</title>
+  <title_without_series>Cómo hablar dragonés</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1270933472m/5997855.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1270933472s/5997855.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5997855-c-mo-hablar-dragon-s</link>
+  <num_pages/>
+  <format/>
+  <edition_information>Pequeños dragones</edition_information>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.13</average_rating>
+  <ratings_count>9728</ratings_count>
+  <description>Hipo debe rescatar a su pequeño dragón Desdentado, que ha sido capturado por los romanos. Su capacidad para comprender distintas lenguas le será de gran ayuda e intentará convertirse, una vez más, en un héroe vikingo.</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>2362701</id>
+  <uri>kca://work/amzn1.gr.work.v1.TuEevU_zSVWRE4DW0ROTTA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343505737" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:06:22 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:06:22 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699243126]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699243126]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699242260</id>
+    <book>
+  <id type="integer">39752379</id>
+  <isbn>9722528173</isbn>
+  <isbn13>9789722528177</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.itFu4pfgH8_tjREKtFrO9w</uri>
+  <title>Como Seres um Pirata (How to train your dragon, #2)</title>
+  <title_without_series>Como Seres um Pirata</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1523074111m/39752379.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1523074111s/39752379.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39752379-como-seres-um-pirata</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bertrand Editora</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>11570</ratings_count>
+  <description>Neste segundo volume da série Como Treinares o Teu Dragão, continuam as aventuras de Hiccup Hadoque Horrendo III, um extraordinário encantador de dragões, hábil com a espada, e o maior Herói Viking de sempre. &lt;br /&gt;&lt;br /&gt;O Hiccup e os outros rapazes da Horda Hedionda começaram o Programa de Treino de Piratas, mas esse não é o maior desafio que têm pela frente! O caixão de Barba-Sombria, o Medonho, aparece juntamente com um mapa e um enigma… e ainda com Alvim, um viking que não é quem diz ser. Apesar dos protestos do Hiccup, que acha que não se deve abrir nada que diga "NÃO ABRIR", o Chefe Estoico toma decisões que vão pôr em causa a segurança da tribo. E é então que um tesouro revela quem é o Verdadeiro Herdeiro de Barba-Sombria, e também o Herói desta história.</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>1479402</id>
+  <uri>kca://work/amzn1.gr.work.v1.-lqpcxR3gcaRWoZB4dwSHA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343504886" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:04:44 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:04:44 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699242260]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699242260]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699240553</id>
+    <book>
+  <id type="integer">23163124</id>
+  <isbn nil="true"/>
+  <isbn13>9788467571790</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RL8uDTHy9A33JZbMwT1U5A</uri>
+  <title>Cómo entrenar a tu dragón (Cómo entrenar a tu dragón, #1)</title>
+  <title_without_series>Cómo entrenar a tu dragón</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1410025736m/23163124.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1410025736s/23163124.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23163124-c-mo-entrenar-a-tu-drag-n</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>SM</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>30803</ratings_count>
+  <description>Hipo Horrendo Abadejo III es un joven vikingo que debe realizar un peculiar rito de iniciación: cazar un dragón y entrenarlo. Sin embargo, el dragón elegido por Hipo no es el más obediente ni el más fuerte. ¿Cómo logrará superar la prueba y convertirse en un verdadero vikingo?</description>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p5/23894.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294682719p2/23894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>109903</ratings_count>
+<text_reviews_count>9014</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>1484561</id>
+  <uri>kca://work/amzn1.gr.work.v1.RgIP-EQmFV1HjTcheyWCGA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343503205" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sat Feb 02 00:01:39 -0800 2019</date_added>
+  <date_updated>Sat Feb 02 00:01:40 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699240553]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699240553]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2699238902</id>
+    <book>
+  <id type="integer">40517351</id>
+  <isbn>840819349X</isbn>
+  <isbn13>9788408193494</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gvgeDaeqXveOBx2GqvgOVw</uri>
+  <title>La niña que bebió luz de luna</title>
+  <title_without_series>La niña que bebió luz de luna</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1528817931m/40517351.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1528817931s/40517351.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40517351-la-ni-a-que-bebi-luz-de-luna</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Destino</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>29515</ratings_count>
+  <description>Esta es la historia de una niña que nació sin magia, y bebiendo luz de luna se convirtió en una persona enmagizada. De una bruja con un gran corazón y una misión imprevista. De un monstruo del pantano sabio y poeta. Y de un minúsculo dragón que espera crecer algún día.&lt;br /&gt;&lt;br /&gt;Esta es la historia de seres mágicos que se comportan como personas corrientes, y personas corrientes que se convierten en seres mágicos.&lt;br /&gt;&lt;br /&gt;Esta es la historia de cómo todos ellos salvaron a su mundo de la infelicidad y la tristeza.</description>
+<authors>
+<author>
+<id>945430</id>
+<name>Kelly Barnhill</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1537991572p5/945430.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1537991572p2/945430.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/945430.Kelly_Barnhill]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>40242</ratings_count>
+<text_reviews_count>8038</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>48118988</id>
+  <uri>kca://work/amzn1.gr.work.v1.A6YL-P2A8j2yU8YiH_a-cw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="302250942" review_shelf_id=""/>
+
+    <shelf exclusive="false" id="302333828" name="children-teens" review_shelf_id="2343501671" sortable="false"/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Fri Feb 01 23:58:48 -0800 2019</date_added>
+  <date_updated>Fri Feb 01 23:58:49 -0800 2019</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2699238902]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2699238902]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
