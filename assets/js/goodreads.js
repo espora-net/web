@@ -25,10 +25,10 @@ $(function(){
     });
   }
 	
-  loadBooks(url, $('.novel'));
-  loadBooks(url, $('.business'));
-  loadBooks(url, $('.scifi'));
-  loadBooks(url, $('.biography'));
-  loadBooks(url, $('.childrenteens'));
-  loadBooks(url, $('.personaldevelopment'));
+  loadBooks(novel, $('.novel'));
+  loadBooks(business, $('.business'));
+  loadBooks(scifi, $('.scifi'));
+  loadBooks(biography, $('.biography'));
+  loadBooks(childrenteens, $('.childrenteens'));
+  loadBooks(personaldevelopment, $('.personaldevelopment'));
 });
