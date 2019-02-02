@@ -12,7 +12,7 @@ $(function(){
     .done(function(xml) {
 	$(xml).find("review book").each(function () {
 	var book = $(this);
-        books.append('<div class="2u"><span class="image fit"><img src="' + book.find("image_url").first().text() + '" alt="' + book.find("description").text() + '" />' + book.find("title").text() + '</span></div>');
+        books.append('<div class="1u"><span class="image fit"><a href="' + book.find("link").text() + '"><img src="' + book.find("image_url").first().text() + '" alt="' + book.find("title").text() + '" /></a>' + book.find("title").text() + '</span></div>');
 	});      
     })
     .fail(function(){
