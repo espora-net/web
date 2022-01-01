@@ -3,17 +3,17 @@
   "apps":[
     {
     "website":"discord.com",
-    "time":1200,
+    "time":20,
     "users":["Carlos", "Bruno", "Judith"]
     },
     {
     "website":"discordapp.com",
-    "time":1200,
+    "time":10,
     "users":["Carlos", "Bruno", "Judith"]
     },
     {
     "website":"facebook.com",
-    "time":600,
+    "time":10,
     "users":["Eva", "Carlos", "Bruno", "Judith"]
     }
     ]
