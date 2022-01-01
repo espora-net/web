@@ -4,17 +4,17 @@
     {
     "website":"discord.com",
     "time":20,
-    "users":["Carlos", "Bruno", "Judith"]
+    "users":["C", "B", "J"]
     },
     {
     "website":"discordapp.com",
     "time":10,
-    "users":["Carlos", "Bruno", "Judith"]
+    "users":["C", "B", "J"]
     },
     {
     "website":"facebook.com",
     "time":10,
-    "users":["Eva", "Carlos", "Bruno", "Judith"]
+    "users":["E", "C", "B", "J"]
     }
     ]
 }
