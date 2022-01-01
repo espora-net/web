@@ -1,0 +1,17 @@
+[
+{
+"website":"discord.com",
+"time":1200,
+"users":["Carlos", "Bruno", "Judith"]
+},
+{
+"website":"discordapp.com",
+"time":1200,
+"users":["Carlos", "Bruno", "Judith"]
+},
+{
+"website":"facebook.com",
+"time":600,
+"users":["Eva", "Carlos", "Bruno", "Judith"]
+}
+]
