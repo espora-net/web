@@ -2,18 +2,21 @@
   "status": "enabled",
   "apps":[
     {
-    "website":"discord.com",
-    "time":20,
+    "name":"discord.com",
+    "type":"website",
+    "max-time":20,
     "users":["C", "B", "J"]
     },
     {
-    "website":"discordapp.com",
-    "time":10,
+    "name":"discordapp.com",
+    "type":"website",
+    "max-time":10,
     "users":["C", "B", "J"]
     },
     {
-    "website":"facebook.com",
-    "time":10,
+    "name":"facebook.com",
+    "type":"website",
+    "max-time":10,
     "users":["E", "C", "B", "J"]
     }
     ]
