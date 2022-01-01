@@ -4,19 +4,19 @@
     {
     "name":"discord.com",
     "type":"website",
-    "max-time":20,
+    "max_time":20,
     "users":["C", "B", "J"]
     },
     {
     "name":"discordapp.com",
     "type":"website",
-    "max-time":10,
+    "max_time":10,
     "users":["C", "B", "J"]
     },
     {
     "name":"facebook.com",
     "type":"website",
-    "max-time":10,
+    "max_time":10,
     "users":["E", "C", "B", "J"]
     }
     ]
